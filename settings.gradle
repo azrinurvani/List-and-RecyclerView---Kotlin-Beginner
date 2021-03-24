@@ -1,0 +1,3 @@
+include ':listview'
+include ':app'
+rootProject.name = "Kotlin Beginner - List and Recycler View"
